@@ -6,7 +6,7 @@ Der Smiley sollte froh oder traurig aussehen.
 (Wie arbeiten die Button? [Schau dir das englische Video an.](https://youtu.be/t_Qujjd_38o)).
 
 ![Button A oder B drücken](/static/mb/projects/smiley-buttons/sim.gif)
-
+<img width="200px" src="https://github.com/dlpl-mb/s-tutorial-1/blob/master/images/12t.gif?raw=1">
 ## Step 1 
 
 Positioniere einen Block ``||input:Wenn Knopf A gedrück||`` und teste ihn druch Drücken des Button **A**.

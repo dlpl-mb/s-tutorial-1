@@ -37,3 +37,13 @@ asdf asdf akjdfklajdsöfl kaösaödk
     basic.showIcon(IconNames.Heart)
 
 ```
+
+
+
+## schritt 4 @fullscreen
+aösdk jfaöjdfköaskjd kasjdöf lkfjaöskj
+asdf asdf akjdfklajdsöfl kaösaödk
+aösdk jfaöjdfköaskjd kasjdöf lkfjaöskj
+asdf asdf akjdfklajdsöfl kaösaödk
+
+<img width="200px" src="https://github.com/dlpl-mb/s-tutorial-1/blob/master/images/12t.gif?raw=1">
