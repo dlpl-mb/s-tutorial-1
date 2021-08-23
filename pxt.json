@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "DEMO-TUTORIAL.md",
-        "TUTORIAL.md"
+        "TUTORIAL.md",
+        "_locales/de-AT/TUTORIAL.md"
     ],
     "testFiles": [
         "test.ts"
