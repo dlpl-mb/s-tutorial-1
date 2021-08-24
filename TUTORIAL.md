@@ -33,6 +33,7 @@ asdf asdf akjdfklajdsöfl kaösaödk
 aösdk jfaöjdfköaskjd kasjdöf lkfjaöskj
 asdf asdf akjdfklajdsöfl kaösaödk
 
+
 ```block
     basic.showIcon(IconNames.Heart)
 
@@ -47,3 +48,11 @@ aösdk jfaöjdfköaskjd kasjdöf lkfjaöskj
 asdf asdf akjdfklajdsöfl kaösaödk
 
 <img width="200px" src="https://github.com/dlpl-mb/s-tutorial-1/blob/master/images/12t.gif?raw=1">
+
+## schritt 5 
+alsfjsöalfjaslk
+```block
+
+basic.showNumber(121)
+```
+
